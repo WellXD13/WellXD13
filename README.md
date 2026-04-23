@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I'm Maxwell👋
 
 - Hello, my name is Maxwell, I'm a design student learning about the field and striving to create excellent, creative, and high-quality projects. 🇺🇸
 - Olá, meu nome é Maxwell, sou um estudante de design aprendendo sobre a área e me esforçando para criar projetos excelentes, criativos e de alta qualidade. 🇧🇷
