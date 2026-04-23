@@ -13,6 +13,10 @@
 - 🟦 UI Design  
 - 🟨 Figma  
  
+## What I Work With
+- Wireframe
+- Design UX
+
 
 <!--
 **WellXD13/WellXD13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
