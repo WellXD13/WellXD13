@@ -3,7 +3,7 @@
 - Hello, my name is Maxwell, I'm a design student learning about the field and striving to create excellent, creative, and high-quality projects. 🇺🇸
 - Olá, meu nome é Maxwell, sou um estudante de design aprendendo sobre a área e me esforçando para criar projetos excelentes, criativos e de alta qualidade. 🇧🇷
 
-<img width="535" height="276" alt="Image" src="https://github.com/user-attachments/assets/1879607d-235c-4052-b5c9-6a2fa730b3f5" />
+
 <!--
 **WellXD13/WellXD13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
