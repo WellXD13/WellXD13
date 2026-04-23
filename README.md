@@ -3,7 +3,7 @@
 - Hello, my name is Maxwell, I'm a design student learning about the field and striving to create excellent, creative, and high-quality projects. 🇺🇸
 - Olá, meu nome é Maxwell, sou um estudante de design aprendendo sobre a área e me esforçando para criar projetos excelentes, criativos e de alta qualidade. 🇧🇷
 
-
+</span>
 
 <div align="center">
 <img src="[https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif](https://github.com/user-attachments/assets/766f9266-628a-4430-8903-0abd73e4cffd)" width="700px" />
