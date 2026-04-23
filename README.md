@@ -3,7 +3,9 @@
 - Hello, my name is Maxwell, I'm a design student learning about the field and striving to create excellent, creative, and high-quality projects. 🇺🇸
 - Olá, meu nome é Maxwell, sou um estudante de design aprendendo sobre a área e me esforçando para criar projetos excelentes, criativos e de alta qualidade. 🇧🇷
 
-<img width="735" height="476" alt="Image" src="https://github.com/user-attachments/assets/766f9266-628a-4430-8903-0abd73e4cffd" />
+div align="center"
+img src="[https://desblogada.files.wordpress.co...](https://github.com/user-attachments/assets/766f9266-628a-4430-8903-0abd73e4cffd)" width="0px" /
+/div
 <!--
 **WellXD13/WellXD13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
