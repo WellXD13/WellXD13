@@ -5,18 +5,33 @@
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WellXD13&show_icons=true&theme=dark)
 
-## About Me
-### 📖Courses that I take
-- 🔹 UX Design — Coursera 
-### 📚What I study and practice
-- 🟩 UX Design (Cusera-Google)  
-- 🟦 UI Design  
-- 🟨 Figma  
- 
-## What I Work With
-- Wireframe
-- Design UX
+## 🚀 About Me
 
+### 📚 Currently Learning
+
+🟩 UX Design (Google / Coursera)
+
+🟦 UI Design
+
+🟨 Figma
+
+---
+
+### 🛠️ Tools & Skills
+
+✏️ Wireframing
+
+🎯 UX Design
+
+🎨 UI Design
+
+📐 Prototyping (Figma)
+
+---
+
+## 📌 Portfolio (coming soon...)
+
+### 🚧 I'm currently working on my projects — stay tuned!
 
 <!--
 **WellXD13/WellXD13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
