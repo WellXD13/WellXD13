@@ -2,7 +2,17 @@
 
 - Hello, my name is Maxwell, I'm a design student learning about the field and striving to create excellent, creative, and high-quality projects. 🇺🇸
 - Olá, meu nome é Maxwell, sou um estudante de design aprendendo sobre a área e me esforçando para criar projetos excelentes, criativos e de alta qualidade. 🇧🇷
+---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WellXD13&show_icons=true&theme=dark)
 
+## About Me
+### 📖Courses that I take
+- 🔹 UX Design — Coursera 
+### 📚What I study and practice
+- 🟩 UX Design (Cusera-Google)  
+- 🟦 UI Design  
+- 🟨 Figma  
+ 
 
 <!--
 **WellXD13/WellXD13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
