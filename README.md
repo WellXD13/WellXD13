@@ -7,13 +7,9 @@
 
 ## 🚀 About Me
 
-### 📚 Currently Learning
+### 📚 Courses taken
 
 🟩 UX Design (Google / Coursera)
-
-🟦 UI Design
-
-🟨 Figma
 
 ---
 
